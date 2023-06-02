@@ -1,0 +1,7 @@
+(_SYM ଙ_QO )_SYM ଘାସ_NN ଓ_CC ଅନାବନା_JJ ଗଛ_NN ଉଠି_VM ଫସଲ_NN ଉତ୍ପାଦନରେ_NN ବାଧା_NN ସୃଷ୍ଟି_NN କରିଥାନ୍ତି_VM |_SYM
+ଧାନ_NN ବୁଣା_NN ହେବାର_NN 15_QC -_SYM 20_QC ଦିନ_NN ବେଳକୁ_NN ଥରେ_NN ଏବଂ_CC 35-40_QC ଦିନ_NN ବେଳକୁ_NN ଆଉ_CC ଥରେ_NN ,_SYM ଏପରି_PRP ଦୁଇଥର_NN ଘାସବଛା_NN କାମ_NN ,_SYM ମୂଲିଆଙ୍କ_NN ଦ୍ବାରା_PSP କରାଇ_VM ନେବା_VM ଆବଶ୍ଯକ_JJ |_SYM
+ଧାଡିବୁଣା_NN ଫସଲରେ_NN ରେକ୍‌_XC ଉଇଡର_NNP ଚଳାଇ_VM ,_SYM ଅଳ୍ପ_QF ସମଯରେ_NN ଘାସ_NN ବଛା_NN ୟାଇପାରେ_VM |_SYM
+ଧାନବୁଣା_NN ହେବାର_NN 3_QC ସପ୍ତାହ_NN ମଧ୍ଯରେ_NST ଘାସ_NN ବଛାବଛି_NN କାମ_NN ନ_NN କଲେ_VM ,_SYM ଅମଳ_NN କମିୟାଏ_VM |_SYM
+ମଝିଆଳି_JJ ଓ_CC ଖାଲ_JJ ଜମିର_NN ବୁଣାଧାନ_NN ଫସଲରେ_NN ,_SYM ଠିକ୍‌_JJ ସମଯରେ_NN ବେଉଷଣ_NN କରି_VM ଘାସ_NN ନଷ୍ଟ_NN କରିଦେବା_VM ଉଚିତ_JJ |_SYM
+ବେଉଷଣ_NN ସମଯରେ_NN ଖେଳୁଆ_JJ କରି_VM ଏବଂ_CC ପ୍ରଥମ_NN ବଛାବଛି_NN ବେଳେ_NN ଖୁଞ୍ଛା_NN ଦେଇ_VM ,_SYM ଜମିରେ_NN ବର୍ଗମିଟର_NN ପ୍ରତି_NST 40_QC ରୁ_PSP 70_QC ବୁଦା_NN ରଖନ୍ତୁ_VM |_SYM
+
